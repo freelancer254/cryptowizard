@@ -3,8 +3,9 @@
 A Vue.js App that retrieves real time crypto prices, shows local peer to peer markets comparison and also retrieves the latest crypto news.
 ## Demo
 ```
-* [https://cryptowizard.info](https://cryptowizard.info)
+https://cryptowizard.info
 ```
+* [https://cryptowizard.info](https://cryptowizard.info)
 
 
 ## Built With
